@@ -51,7 +51,7 @@ Demostração da aplicação web e mobile.
 ## ⌨ Como Rodar
 
 ```bash
-# Clone o Repositoio
+# Clone o Repositorio
 $ git clone https://github.com/lucasfsilva94/happy.git
 ```
 ### Rodar API
