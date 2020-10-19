@@ -90,8 +90,6 @@ Acesse http://localhost:3000/ para ver o resultado
 
 ### Rodar o projeto Mobile
 
-Para rodar o projeto mobile você precisa de um celular com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
-
 ```bash
 # Entre na pasta mobile
 $ cd mobile
@@ -102,6 +100,6 @@ $ yarn install
 # Rode a aplicação
 $ yarn start
 ```
-Com a aplicação rodando, leia o QRCode com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode pelo emulador.
+Com a aplicação rodando, leia o QRCode com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode pelo emulador android/iOS.
 
 ---
