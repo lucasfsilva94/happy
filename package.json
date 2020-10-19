@@ -1,0 +1,12 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasfsilva94/happy.git",
+  "author": "Lucas Faria <lucasfsilva94@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd backend && node dist/server.js",
+    "build": "cd backend && tsc"
+  },
+}
