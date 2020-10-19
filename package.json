@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "start": "cd backend && node dist/server.js",
-    "build": "cd backend && npm install && npm run build",
-    "postinstall": "npm run build"
+    "dev": "cd backend && tsnd --transpile-only --ignore-watch node_modules src/server.ts",
+    "build": "cd backend && tsc",
+    "typeorm": "cd backend &&tsnd ./node_modules/typeorm/cli.js"    
   }
 }
