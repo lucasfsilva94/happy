@@ -42,6 +42,55 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 ## Como Usar
 
+```bash
+# Clone o Repositoio
+$ git clone https://github.com/lucasfsilva94/happy.git
+```
+### Rodar API
 
+```bash
+# Entre na pasta backend
+$ cd backend
+
+# Instale as Dependencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Acesse a API em http://localhost:3333/
+
+### Rodar o projeto Web
+
+```bash
+# Entre na pasta web
+$ cd web
+
+# Instale as Dependencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Acesse http://localhost:3000/ para ver o resultado
+
+### Rodar o projeto Mobile
+
+Para rodar o projeto mobile você precisa de um celular com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
+
+<br />
+Após isso, fork esse repositorio e clona ele para sua maquina. Dentro da pasta do projeto rode o comando abaixo:
+
+```bash
+# Entre na pasta mobile
+$ cd mobile
+
+# Instale as Dependencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Com a aplicação rodando, leia o QRCode com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode pelo emulador.
 
 ---
