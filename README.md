@@ -14,22 +14,22 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/22107794/96388962-f5ab5880-1182-11eb-8688-80d4c5089dd3.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/22107794/96388962-f5ab5880-1182-11eb-8688-80d4c5089dd3.png" width="100%">  
 </p>
 
-## 🛠 Tecnologias
+## 🔖 Projeto
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+
+Esse projeto foi desenvolvido durante a [Next Level Week #3](https://nextlevelweek.com/) da [RocketSeat](https://rocketseat.com.br/)
+
+## 🛠 Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
-
-## 🔖 Projeto
-
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
 ## 🎨 Layout
 
@@ -43,10 +43,16 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 Demostração da aplicação web e mobile.
 
 ### 💻 Web
-- Heroku
+
+https://happy-app-nlw3.netlify.app/
 
 ### 📱 App
-- Expo
+Para acessar a demo do app precisa instalar o app do Expo em seu celular [android](https://play.google.com/store/apps/details?id=host.exp.exponent) ou [iOS](https://apps.apple.com/br/app/expo-client/id982107779)
+
+Após instalado leia o QRCode abaixo:
+
+<img alt="Expo Happy" src="https://user-images.githubusercontent.com/22107794/96395517-36af6700-119b-11eb-99c0-7a9b4de4e30e.png" width="15%">  
+ou acesse o link https://expo.io/@lucasfsilva/projects/mobile
 
 ## ⌨ Como Rodar
 
