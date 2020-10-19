@@ -38,9 +38,9 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Web](https://www.figma.com/file/4WjoFBVlSdpIoNVW5oSA3p/Happy-Web-NLW3-Omnistack?node-id=0%3A1)
 - [Layout Mobile](https://www.figma.com/file/rbN4Djl9yC6PFWMJN1W1WE/Happy-Mobile-NLW3-Omnistack)
 
-## Demo
+## 🚀 Demo
 
-## Como Usar
+## ⌨ Como Usar
 
 ```bash
 # Clone o Repositoio
@@ -78,8 +78,7 @@ Acesse http://localhost:3000/ para ver o resultado
 
 Para rodar o projeto mobile você precisa de um celular com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
 
-<br />
-Após isso, fork esse repositorio e clona ele para sua maquina. Dentro da pasta do projeto rode o comando abaixo:
+Após isso, realize o fork desse repositorio e clona ele para sua maquina. Dentro da pasta do projeto rode o comando abaixo:
 
 ```bash
 # Entre na pasta mobile
