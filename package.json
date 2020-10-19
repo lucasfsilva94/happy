@@ -8,5 +8,5 @@
   "scripts": {
     "start": "cd backend && node dist/server.js",
     "build": "cd backend && tsc"
-  },
+  }
 }
