@@ -17,7 +17,7 @@
   <img alt="Happy" src="https://user-images.githubusercontent.com/22107794/96388962-f5ab5880-1182-11eb-8688-80d4c5089dd3.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -27,11 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 🔖 Projeto
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
-## 🔖 Layout
+## 🎨 Layout
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
@@ -39,6 +39,14 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Mobile](https://www.figma.com/file/rbN4Djl9yC6PFWMJN1W1WE/Happy-Mobile-NLW3-Omnistack)
 
 ## 🚀 Demo
+
+Demostração da aplicação web e mobile.
+
+### 💻 Web
+- Heroku
+
+### 📱 App
+- Expo
 
 ## ⌨ Como Rodar
 
