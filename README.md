@@ -92,8 +92,6 @@ Acesse http://localhost:3000/ para ver o resultado
 
 Para rodar o projeto mobile você precisa de um celular com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
 
-Após isso, realize o fork desse repositorio e clona ele para sua maquina. Dentro da pasta do projeto rode o comando abaixo:
-
 ```bash
 # Entre na pasta mobile
 $ cd mobile
