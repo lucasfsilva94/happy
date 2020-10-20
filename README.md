@@ -51,7 +51,7 @@ Para acessar a demo do app precisa instalar o app do Expo em seu celular [androi
 
 Após instalado leia o QRCode abaixo:
 
-<img alt="Expo Happy" src="https://user-images.githubusercontent.com/22107794/96395517-36af6700-119b-11eb-99c0-7a9b4de4e30e.png" width="15%">  
+<img alt="Expo Happy" src="https://user-images.githubusercontent.com/22107794/96524740-75065e00-124f-11eb-804d-4bb8d100f6f9.png" width="15%">  
 ou acesse o link https://expo.io/@lucasfsilva/projects/mobile
 
 ## ⌨ Como Rodar
