@@ -121,4 +121,4 @@ Com a aplicação rodando, leia o QRCode com o app [expo](https://play.google.co
 ---
 
 ## 📝 License
-This project is under the MIT license. See the [LICENSE](license) for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
