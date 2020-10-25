@@ -8,6 +8,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-rodar">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -118,3 +119,6 @@ $ yarn start
 Com a aplicação rodando, leia o QRCode com o app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode pelo emulador android/iOS.
 
 ---
+
+## 📝 License
+This project is under the MIT license. See the [LICENSE](license) for more information.
