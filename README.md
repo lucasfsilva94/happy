@@ -72,6 +72,8 @@ ou acesse o link https://expo.io/@lucasfsilva/projects/Happy
 
 ## ⌨ Como Rodar
 
+Para clonar e rodar essa aplicação, você vai precisar do [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/), [Yarn](https://classic.yarnpkg.com/lang/en/) e [Expo](https://expo.io/) instalado no seu computador.
+
 ```bash
 # Clone o Repositorio
 $ git clone https://github.com/lucasfsilva94/happy.git
