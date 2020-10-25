@@ -25,11 +25,26 @@ Esse projeto foi desenvolvido durante a [Next Level Week #3](https://nextlevelwe
 
 ## 🛠 Tecnologias
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+- API:
+    - [Node.js](https://nodejs.org/en/)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [ts-node-dev](https://github.com/whitecolor/ts-node-dev)
+    - [Express](https://expressjs.com/)
+    - [TypeORM](https://typeorm.io/)
+    - [SQLite 3](https://www.npmjs.com/package/sqlite3)
+
+- Web:
+    - [React](https://reactjs.org)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [React Router](https://reactrouter.com/)
+    - [Axios](https://github.com/axios/axios)
+
+- Mobile:
+    - [React Native](https://facebook.github.io/react-native/)
+    - [Expo](https://expo.io/)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [React Navigation](https://reactnavigation.org/)
+    - [Axios](https://github.com/axios/axios)
 
 ## 🎨 Layout
 
