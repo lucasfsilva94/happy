@@ -51,8 +51,8 @@ Esse projeto foi desenvolvido durante a [Next Level Week #3](https://nextlevelwe
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/4WjoFBVlSdpIoNVW5oSA3p/Happy-Web-NLW3-Omnistack?node-id=0%3A1)
-- [Layout Mobile](https://www.figma.com/file/rbN4Djl9yC6PFWMJN1W1WE/Happy-Mobile-NLW3-Omnistack)
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
 ## 🚀 Demo
 
