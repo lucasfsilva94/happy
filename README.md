@@ -69,6 +69,8 @@ Após instalado leia o QRCode abaixo:
 
 <img alt="Expo Happy" src="https://user-images.githubusercontent.com/22107794/96524740-75065e00-124f-11eb-804d-4bb8d100f6f9.png" width="15%">  
 ou acesse o link https://expo.io/@lucasfsilva/projects/Happy
+</br></br>
+<p> Também é possivel acessar direto pelo <strong>navegador</strong>, pelo link https://snack.expo.dev/@lucasfsilva/happy?platform=android </p>
 
 ## ⌨ Como Rodar
 
